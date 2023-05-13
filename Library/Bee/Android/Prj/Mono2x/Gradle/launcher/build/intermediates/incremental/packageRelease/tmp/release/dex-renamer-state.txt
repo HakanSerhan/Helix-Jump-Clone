@@ -1,0 +1,4 @@
+#Thu Apr 06 12:43:46 EET 2023
+base.0=C\:\\Users\\ttakh\\helix jump guide\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
